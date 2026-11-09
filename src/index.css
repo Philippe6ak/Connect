@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --font-dyslexic: "OpenDyslexic", ui-sans-serif, sans-serif;
+  --font-figtree: "Figtree", ui-sans-serif, sans-serif;
+}

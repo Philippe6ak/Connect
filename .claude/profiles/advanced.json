@@ -1,0 +1,5 @@
+{
+  "permissions": {
+    "ask": ["Edit(/src/api/**)", "Edit(/src/lib/**)", "Edit(/package.json)"]
+  }
+}

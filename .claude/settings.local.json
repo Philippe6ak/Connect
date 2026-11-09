@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "deny": [
+      "Edit(/src/api/**)",
+      "Edit(/src/lib/**)",
+      "Edit(/src/hooks/**)",
+      "Edit(/src/context/**)",
+      "Edit(/src/routes/**)",
+      "Edit(/.claude/**)"
+    ],
+    "ask": ["Edit(/package.json)", "Edit(/src/App.jsx)", "Bash(npm install *)"]
+  }
+}
